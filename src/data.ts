@@ -29,7 +29,7 @@ const data = [
     image: "llanes",
     hotel: {
       name: "Домике у Бабули",
-      link: "",
+      link: "https://abnb.me/tDxIG41rrgb",
     },
     food: [
       {
@@ -52,7 +52,7 @@ const data = [
     image: "pendueles",
     hotel: {
       name: "Домике у Бабули",
-      link: "",
+      link: "https://abnb.me/tDxIG41rrgb",
     },
     food: [
       {
