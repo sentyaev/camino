@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/camino/static/css/main.ed45c723.chunk.css",
+    "main.js": "/camino/static/js/main.72a59eba.chunk.js",
+    "main.js.map": "/camino/static/js/main.72a59eba.chunk.js.map",
+    "runtime-main.js": "/camino/static/js/runtime-main.dd57f1a2.js",
+    "runtime-main.js.map": "/camino/static/js/runtime-main.dd57f1a2.js.map",
+    "static/css/2.92b82eaa.chunk.css": "/camino/static/css/2.92b82eaa.chunk.css",
+    "static/js/2.a4c676aa.chunk.js": "/camino/static/js/2.a4c676aa.chunk.js",
+    "static/js/2.a4c676aa.chunk.js.map": "/camino/static/js/2.a4c676aa.chunk.js.map",
+    "static/js/3.0bf11300.chunk.js": "/camino/static/js/3.0bf11300.chunk.js",
+    "static/js/3.0bf11300.chunk.js.map": "/camino/static/js/3.0bf11300.chunk.js.map",
+    "index.html": "/camino/index.html",
+    "static/css/2.92b82eaa.chunk.css.map": "/camino/static/css/2.92b82eaa.chunk.css.map",
+    "static/css/main.ed45c723.chunk.css.map": "/camino/static/css/main.ed45c723.chunk.css.map",
+    "static/js/2.a4c676aa.chunk.js.LICENSE.txt": "/camino/static/js/2.a4c676aa.chunk.js.LICENSE.txt",
+    "static/media/amani.56244654.jpg": "/camino/static/media/amani.56244654.jpg",
+    "static/media/colunga.66b3b916.jpg": "/camino/static/media/colunga.66b3b916.jpg",
+    "static/media/font-awesome.min.css": "/camino/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/llanes.b30e21d6.jpeg": "/camino/static/media/llanes.b30e21d6.jpeg",
+    "static/media/logo.561d82b0.png": "/camino/static/media/logo.561d82b0.png",
+    "static/media/naves.2dcc285b.jpg": "/camino/static/media/naves.2dcc285b.jpg",
+    "static/media/oviedo.4bfbadee.jpeg": "/camino/static/media/oviedo.4bfbadee.jpeg",
+    "static/media/oviedo2.c04e265c.jpeg": "/camino/static/media/oviedo2.c04e265c.jpeg",
+    "static/media/pendueles.5938d70b.jpg": "/camino/static/media/pendueles.5938d70b.jpg",
+    "static/media/sanpedro.d131a2cb.jpg": "/camino/static/media/sanpedro.d131a2cb.jpg",
+    "static/media/sanpedro2.4ae8bd99.jpeg": "/camino/static/media/sanpedro2.4ae8bd99.jpeg",
+    "static/media/sebrallo.15a27db9.jpg": "/camino/static/media/sebrallo.15a27db9.jpg",
+    "static/media/sidr.88bc4d16.jpg": "/camino/static/media/sidr.88bc4d16.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd57f1a2.js",
+    "static/css/2.92b82eaa.chunk.css",
+    "static/js/2.a4c676aa.chunk.js",
+    "static/css/main.ed45c723.chunk.css",
+    "static/js/main.72a59eba.chunk.js"
+  ]
+}
