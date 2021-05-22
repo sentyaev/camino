@@ -1,6 +1,6 @@
 const data = [
   {
-    day: "1",
+    day: "1 (Sep 6)",
     place: "Oviedo",
     distance: "Гуляем по Оведо",
     image: "oviedo",
